@@ -67,6 +67,9 @@ eGeMAPSv01a   10 / 13 / 88
 eGeMAPSv01b   10 / 13 / 88
 ============  ==============
 
+new: add feature : IS09_emotion 
+openSMILE configuration file for IS09 emotion challenge
+
 Code example
 ------------
 
