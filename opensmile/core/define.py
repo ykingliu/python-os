@@ -38,6 +38,7 @@ class FeatureSet(enum.Enum):
     eGeMAPSv01a = 'egemaps/v01a/eGeMAPSv01a'
     eGeMAPSv01b = 'egemaps/v01b/eGeMAPSv01b'
     eGeMAPSv02 = 'egemaps/v02/eGeMAPSv02'
+    IS09_emotion = 'emotion/IS09_emotion'
 
 
 class FeatureLevel(enum.Enum):

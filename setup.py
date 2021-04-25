@@ -13,6 +13,7 @@ package_data = {
         'core/config/egemaps/v01a/*',
         'core/config/egemaps/v01b/*',
         'core/config/egemaps/v02/*',
+        'core/config/emotion/*',
     ]
 }
 

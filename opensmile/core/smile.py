@@ -99,8 +99,10 @@ class Smile(audinterface.Feature):
     ):
 
         self.feature_level = feature_level
+        print(f'self.feature_level, {self.feature_level}')
         r"""Standard feature level or sink level in custom config file."""
         self.feature_set = feature_set
+        print(f'self.feature_set, {self.feature_set}')
         r"""Standard feature set or path to custom config file"""
         self.options = options or {}
         r"""Dictionary with options"""
